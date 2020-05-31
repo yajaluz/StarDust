@@ -1,0 +1,33 @@
+body {
+    background:#99e3d6;
+}
+
+.screen101 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.screen101-container p {
+    text-align: center;
+}
+
+.iconRol {
+    display: grid;
+    margin-top: 30px;
+    justify-content: center;
+    grid-template-columns: 8px 8px 8px;
+    gap: 20px;
+}
+
+.iconRol-cir {
+    border-radius: 50%;
+    background: white;
+    width: 8px;
+    height: 8px;
+}
+
+.iconRol-Black {
+    background: black;
+}
