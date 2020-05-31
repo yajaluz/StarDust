@@ -3,7 +3,7 @@
     top:0;
     width: 100%;
     height: 80px;
-    background: #cbcecd;
+    background: #b0b6b4;
 }
 
 .container-header2{
@@ -17,11 +17,12 @@
 .menuicon{
     position: relative;
     top:5px;
-    right: 20px;
+    margin-right: auto;
+    left: 75%;
 }
 
 .usericon{
     position: relative;
     top:5px;
-    left: 10px
+    left: 10px;
 }
