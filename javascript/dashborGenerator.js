@@ -1,27 +1,27 @@
 const API = [
     {
-        massage1: 'Comece seu diário de bordo desta jornada',
-        massage2: 'Registre como está se sentindo.'
+        massage1: 'Start your logbook in this journey',
+        massage2: 'Register how you be feeling'
     },
     {
-        massage1: 'Comece seu diário de bordo desta jornada',
-        massage2: 'Registre como está se sentindo.'
+        massage1: 'Start your logbook in this journey',
+        massage2: 'Register how you be feeling.'
     },
     {
-        massage1: 'Comece seu diário de bordo desta jornada',
-        massage2: 'Registre como está se sentindo.'
+        massage1: 'Start your logbook in this journey',
+        massage2: 'Register how you be feeling.'
     },
     {
-        massage1: 'Comece seu diário de bordo desta jornada',
-        massage2: 'Registre como está se sentindo.'
+        massage1: 'Start your logbook in this journey',
+        massage2: 'Register how you be feeling.'
     },
     {
-        massage1: 'Comece seu diário de bordo desta jornada',
-        massage2: 'Registre como está se sentindo.'
+        massage1: 'Start your logbook in this journey',
+        massage2: 'Register how you be feeling.'
     },
     {
-        massage1: 'Comece seu diário de bordo desta jornada',
-        massage2: 'Registre como está se sentindo.'
+        massage1: 'Start your logbook in this journey',
+        massage2: 'Register how you be feeling.'
     }
 ]
 

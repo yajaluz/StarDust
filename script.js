@@ -9,5 +9,4 @@ var contNumbers = function(){
     
         $(".caracteres").text(caracteresRestantes);
     });
-
 }
