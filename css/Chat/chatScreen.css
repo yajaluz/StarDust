@@ -15,20 +15,43 @@
 }
 
 .header-level{
-    display: inline;
+    position: absolute;
     text-align: center;
-    margin-left: auto;
+    top:20%;
+    left: 25px;
+}
+
+.header-experience{
+    position: absolute;
+    top: 30%;
+    background: #BDBDBD;
+    border-radius: 8px;
+    height: 9px;
+    width: 60%;
+    left:50%;
+    transform: translateX(-50%); 
 }
 
 .menuicon{
-    position: relative;
-    top:15px;
-    margin-right: auto;
+    position: absolute;
+    top:25px;
+    margin-left: auto;
     left: 80%;
 }
-
 .usericon{
     position: relative;
     top:15px;
     left: 10px;
+}
+
+#nivel{
+    position: absolute;
+    left: 69%;
+    top: 30%;
+}
+
+#xp{
+    position: absolute;
+    left: 15%;
+    top: 7%;
 }
