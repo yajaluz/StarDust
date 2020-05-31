@@ -14,15 +14,21 @@
     background: #f3f3f3;
 }
 
+.header-level{
+    display: inline;
+    text-align: center;
+    margin-left: auto;
+}
+
 .menuicon{
     position: relative;
-    top:5px;
+    top:15px;
     margin-right: auto;
-    left: 75%;
+    left: 80%;
 }
 
 .usericon{
     position: relative;
-    top:5px;
+    top:15px;
     left: 10px;
 }
