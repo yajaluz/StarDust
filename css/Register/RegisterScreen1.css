@@ -1,3 +1,6 @@
+body {
+    background: #ffffff;
+}
 
 .retangle{
     position: absolute;
@@ -70,10 +73,15 @@
 .register-input{
     position: absolute;
     top: 170px;
+    transform: translateY(-50%);
     background: #cbcecd;
     border-radius: 8px;
     font-size: 13px;
     text-align: left;
+    justify-content: center;
+    align-self: center;
+    /* text-align: center; */
+    display: flex;
 }
 
 .ddd{ 
@@ -84,12 +92,10 @@
 }
 
 .number{
-    position: absolute;
     width: 192px;
     height: 40px;
     left: 180px;
     transform: translateX(-26%);
-
 }
 
 .btn-send{
@@ -101,4 +107,7 @@
     border-radius: 8px;
     left: 50%;
     transform: translate(-50%, -50%);
+    justify-content: center;
+    align-self: center;
+    display: flex;
 }
