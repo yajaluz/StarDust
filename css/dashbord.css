@@ -1,0 +1,87 @@
+body {
+    background: white;
+}
+
+.deshbordHeader {
+    width: 100vw;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+}
+
+.header1 {
+    background: #C4C4C4;
+    display: flex;
+    padding-left: 2em;
+    padding-right: 2em;
+    justify-content: space-between;
+    align-items: center;
+    height: 8vh;
+}
+
+.header1 div {
+    display: flex;
+    align-items: center;    
+    margin-right: 15px;
+}
+
+.header1-profile {
+    background: url('../svg/profile.svg');
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+}
+
+.header1-miniLogo {
+    background: url('../svg/miniLogo.svg');
+    border-radius: 8px;
+    height: 40px;
+    width: 40px;
+}
+
+.header2 {
+    background: #E5E5E5;
+    display: flex;
+    padding-left: 2em;
+    padding-right: 2em;
+    justify-content: space-between;
+    align-items: center;
+    height: 8vh;
+}
+
+.header2-level {
+    text-align: center;
+}
+
+.header2-experience {
+    background: #BDBDBD;
+    border-radius: 8px;
+    width: 60%;
+    height: 9px;
+}
+
+.sectionMetas {
+    margin-top: 40%;
+}
+
+.metas {
+    background: #99E3D6;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30%;
+    width: 80%;
+}
+
+.metas1 {
+    background: #99E3D6;
+}
+
+.metas2 {
+    background: #CC9DD3;
+}
+
+.metas3 {
+    background: #C4C4C4;
+}
