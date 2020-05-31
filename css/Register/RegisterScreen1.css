@@ -1,0 +1,104 @@
+
+.retangle{
+    position: absolute;
+    width: 250px;
+    height: 45px;
+    left: 50%;
+    transform: translatex(-50%);
+    line-height: 40px;
+    text-align: center;
+    font-size: 14px;
+    background: #cbcecd;
+    border-radius: 8px;
+}
+
+.retangle1{
+    top: 304px;
+}
+
+.retangle2{
+    top: 400px;
+}
+
+.retangle3{
+    top: 465px;
+}
+
+.logo2{
+    top: 115px;
+    background: #C4C4C4;
+    border-radius: 8px;
+}
+
+.text{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    text-align: center;
+    display: inline;
+    color: #000000;
+}
+
+.welcome{
+    top: 150px;
+}
+
+.float{
+    top: 360px;
+}
+
+.problem{
+    display: inline;
+    position: absolute;
+    bottom: 280px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.title h3{
+    position: absolute;
+    left: 80px;
+    top:90px;
+    font-family: 'Montserrat';
+    font-weight: lighter;
+}
+
+.register-input{
+    position: absolute;
+    top: 170px;
+    background: #cbcecd;
+    border-radius: 8px;
+    font-size: 13px;
+    text-align: left;
+}
+
+.ddd{ 
+    width: 48px;
+    height: 40px;
+    left: 82px;
+    transform: translateX(-21%);
+}
+
+.number{
+    position: absolute;
+    width: 192px;
+    height: 40px;
+    left: 180px;
+    transform: translateX(-26%);
+
+}
+
+.btn-send{
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    top: 480px;
+    background: #E5E5E5;
+    border-radius: 8px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
