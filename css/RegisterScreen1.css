@@ -2,6 +2,10 @@ body {
     background: #ffffff;
 }
 
+.caracteres{
+    color:red;
+}
+
 .retangle{
     position: absolute;
     width: 250px;
