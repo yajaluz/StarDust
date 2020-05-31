@@ -25,6 +25,18 @@
     line-height: 100px;
 }
 
+.container-bottom{
+    position: absolute;
+    top: 80%;
+    width: 120px;
+    height: 40px;
+    background: #99e3d6;
+    border-radius: 8px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    justify-content: center;
+}
+
 .container-header{
     position: absolute;
     top:0;
@@ -86,6 +98,23 @@
     width: 25em;
 }
 
+.retangle-rtg1{
+    position: absolute;
+    top: 35%;
+    left: 10%;
+}
+
+.retangle-rtg2{
+    position: absolute;
+    top: 45%;
+    left: 10%;
+}
+
+.retangle-rtg3{
+    position: absolute;
+    top: 55%;
+    left: 10%;
+}
 .square{
     position: absolute;
     width: 200px;
