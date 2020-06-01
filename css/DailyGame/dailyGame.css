@@ -58,6 +58,14 @@ p.finished.completeText{
     background: #f3f3f3;
 }
 
+h1{
+    position: absolute;
+    text-align: center;
+    top:15%;
+    left:50%;
+    transform: translate(-50%, -50%);
+}
+
 h2{
     position: absolute;
     text-align: center;

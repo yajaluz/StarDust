@@ -1,3 +1,10 @@
+.arrowicon{
+    position: absolute;
+    left: 50%;
+    top: 25%;
+    transform: translatex(-50%);
+}
+
 body {
     background: #ffffff;
 }
@@ -77,6 +84,7 @@ body {
 .register-input{
     position: absolute;
     top: 170px;
+    height: 40px;
     transform: translateY(-50%);
     background: #cbcecd;
     border-radius: 8px;
@@ -89,14 +97,31 @@ body {
 
 .code{ 
     width: 48px;
-    height: 40px;
     left: 50px;
 }
 
+/* .name{
+    width: 192px;
+ 
+    left: 12%;
+    transform: translateX(-12%);
+} */
+ 
 .number{
     width: 192px;
-    height: 40px;
     left: 115px;
+}
+
+.pass{
+    width: 200px;
+    left: 12%;
+    transform: translateX(-12%);
+}
+
+.register-input.email{
+    width: 192px;
+    left: 45px;
+    /* transform: translateX(-12%); */
 }
 
 .btn-send{
